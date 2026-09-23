@@ -23,7 +23,7 @@ nav a { opacity: .78; transition: opacity .2s; }
 nav a:hover { opacity: 1; }
 .header-date { border-bottom: 1px solid rgba(255,255,255,.55); padding-bottom: 5px; }
 .hero { align-items: flex-end; color: #fff; display: flex; min-height: min(800px, 100vh); overflow: hidden; padding: 150px 10vw 105px; position: relative; }
-.hero-photo { background: url("Prisma_Conteudo-57-2.jpg") center / cover; inset: 0; position: absolute; transform: scale(1.02); }
+.hero-photo { background: url("Prisma_Conteudo-57-2.jpg") 35% center / cover; inset: 0; position: absolute; transform: scale(1.02); }
 .hero-shade { background: linear-gradient(90deg, rgba(22,18,16,.75), rgba(22,18,16,.16) 72%), linear-gradient(0deg, rgba(22,18,16,.57), transparent 55%); inset: 0; position: absolute; }
 .hero-content { max-width: 640px; position: relative; z-index: 1; }
 .eyebrow, .section-label, .timeline-date { font-size: 10px; letter-spacing: 2.4px; text-transform: uppercase; }
